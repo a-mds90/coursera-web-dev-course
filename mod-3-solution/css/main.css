@@ -52,11 +52,10 @@ body {
 background-color: grey;
 font-size: 1.5em;
 color: black;
-<<<<<<< HEAD
-height: 1000px;
-=======
- height: 1000px;
->>>>>>> 079f57c8eecfadbd96a437e08b945dcb271b1106
+}
+
+.col-sm {
+  height: 1000px;
 }
 
 ********** Large devices only **********/
